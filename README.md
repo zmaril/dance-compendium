@@ -1,39 +1,24 @@
-# Full Next.js example
+# Zack's Dance Notes 
 
-This is a full-featured boilerplate for a creating a documentation website using Markdoc and Next.js.
+See [this website](https://zacksdancenotes.com) for more. 
 
-<img width="2032" alt="image" src="https://user-images.githubusercontent.com/62121649/174916143-16f18270-0463-402c-8b48-33c627ea7a7e.png">
-
-## Setup
-
-First, clone this repo and install the dependencies required:
+## Local development 
 
 ```bash
+git clone https://github.com/zmaril/dance-notes.git 
 npm install
-# or
-yarn install
-```
-
-Then, run the development server:
-
-```bash
 npm run dev
-# or
-yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `index.md`. The page auto-updates as you edit the file.
+## License 
 
-## Deploy
+This code is released under the MIT license. 
 
-The quickest way to deploy your own version of this boilerplate is by deploying it with [Vercel](https://vercel.com) or [Netlify](https://www.netlify.com/) by clicking one of the buttons below.
+## Contributions 
 
-### Deploy with Vercel
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/markdoc/next.js-starter)
-
-### Deploy to Netlify
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/markdoc/next.js-starter)
+This project is new and there's some patterns of writing and development that I
+want to build out first before others really start contributing in earnest. So,
+submit pull request if you like, but please understand that if they don't fit
+the vision, they won't be accepted or perhaps even acknowledged for a while. 
