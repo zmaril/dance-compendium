@@ -33,3 +33,35 @@ h2 {
 a {
   color: rgba(75, 85, 99, 1);
 }
+
+/* .sequence_chart {
+    border: 0px solid;
+}
+*/
+
+.sequence_chart > thead > tr{
+    border: 1px solid;
+}
+
+.sequence_chart > tbody > tr > td{
+    text-align: center;
+} 
+
+.connection_table {
+  border: 1px solid black;
+  padding: 10px;
+  margin-top: 10px;
+  border-collapse: collapse;
+}
+
+.connection_table > thead > tr > th {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.connection_table > tbody > tr > td{
+    text-align: left;
+    border: 1px solid black;
+    padding: 10px;
+
+} 

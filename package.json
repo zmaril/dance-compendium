@@ -11,7 +11,8 @@
     "next": "latest",
     "prismjs": "latest",
     "react": "latest",
-    "react-dom": "latest"
+    "react-dom": "latest",
+    "ts-pattern": "^4.0.5"
   },
   "devDependencies": {
     "@types/node": "latest",

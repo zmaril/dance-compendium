@@ -4,3 +4,6 @@ export * from './Heading';
 export * from './SideNav';
 export * from './TableOfContents';
 export * from './TopNav';
+export * from './Link';
+export * from './YTEmbed';
+export * from './CT';
