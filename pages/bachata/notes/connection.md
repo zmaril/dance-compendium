@@ -149,7 +149,7 @@ trying to learn.
   **Followers** weight is transferred through the **Connection** and onto the
   **Leader**. If the **Leader** were to remove their support, the **Follower**
   would not be able to maintain their **Balance** alone with that specific
-  **Posture** and they would start to fall. Doing a **Dip** or a **Lean** takes
+  **Posture** and they would start to fall. Doing a lift, dip or lean takes
   a solid **Load-bearing connection**. Although it's typically a **Leader**
   supporting a **Follower**, [a classic counter example is the leans done in
   Cuban Son](https://youtu.be/gsKQalDu4VU?t=232). 
