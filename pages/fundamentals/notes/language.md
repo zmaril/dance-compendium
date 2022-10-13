@@ -3,7 +3,7 @@
 
 # Language for Talking About Partner Dancing 
 
-This page contains a small amount of language I've been thinking through for talking and writing about partner dancing.  
+This page contains a small amount of language I've been thinking through for talking and writing about partner dancing. It's a work in progress.
 
 For a while now, I've tried to write down notes after classes about what I
 learned and I never felt like I had the vocabulary or notation to really fully
@@ -82,6 +82,15 @@ TODO find a good spot to introduce **Force** earlier as well as the concept of f
 * When the **Forces** of the **Frame** are **Orthogonal** to the **Follower's** **Center of Gravity**, that creates **Rotation** of the **Follower** and **Angular Momentum**. 
 * Any of these **Forces** can exist within the same **Moment**, with the locus of the **Force** being on the **Dancers** as a whole or body parts of a particular **Dancer**. 
 * When the **Forces** of the **Frame** switch between creating **Compression** and **Stretching**, a feeling of **Elasticity** is created. 
+* When the **Forces** of the **Frame** are equal on one part of the **Follower's** body while being **Rotational** on another part of the **Follower's** body, then **Torsion** is created. 
+
+## Rotations I 
+TODO what's the difference between all these
+https://www.ultimatetango.com/blog/pivots-turns-spins-and-torsion
+* Pivot 
+* Spin
+* Turn
+* Torsion
 
 ### Dance II 
 

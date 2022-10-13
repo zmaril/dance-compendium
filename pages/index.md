@@ -5,59 +5,19 @@ description: Zack's notes on Salsa, Bachata, Merengue, Rumba, and Zouk
 
 # Zack's Dance Notes 
 
-This website contains notes that [Zack](https://zack.maril.org) has been taking on social dancing. To get started, find
-something below that looks interesting and get reading. For more about this website and why it exists, check out the [about](/about) section.
+This website contains notes that [Zack](https://zack.maril.org) has been taking on social dancing. 
 
 ### Fundamentals 
 This section is about some things that seem about the same across all the dances that I've tried. 
-* Finding The Beat
-* Dancing Is About Weight Transfer 
-* Sequence Charts 
-* Conventions 
-* 
 
-### Salsa 
+* [Language for Talking About Partner Dancing](/fundamentals/notes/language)
 
-On 1 only for now.  On 2 later when I start dancing that again more. 
+### Zouk 
+This section is about Zouk, particularly Brazilian Zouk. 
 
-Steps 
-* Basic Step 
-* Side Step  
-* Cumbia Step (?)
-* Open Breaks 
-* Circular Step 
-* Variations on the pause
+* [Catch-all Zouk notes for now](/zouk/index.md)
 
-Positions 
-* Closed 
-* Open 
-* Social 
-* Copa 
-* Shadow 
-* Cross body lead? 
-* Hammer locked 
-* Traveling 
+### Related 
+If you're into this website, you'll probably be interested in some of the following:
 
-Moves 
-* Left turn 
-* 
-
-Patterns 
-* TK 
-
-Videos 
-* TK
-
-## Drills 
-* Progressive quarter turns for form and spotting 
-* Various footwork drills
-* Traveling spins across the room for spotting and footwork 
-* Arm drills 
-* Movement drills 
-* Footwork
-* Shines 
-
-
-## Tools 
-
-## Paid courses 
+* [Tango Manual by Larry E. Carroll](https://web.archive.org/web/20091003185358/http://home.att.net/~larrydla/basics_0.html)
