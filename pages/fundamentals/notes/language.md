@@ -1,4 +1,5 @@
 ---
+title: Language for Talking about Partner Dancing
 ---
 
 # Language for Talking About Partner Dancing 
@@ -57,7 +58,8 @@ starts with a **Connection** with **The Floor** as well as a **Connection** to t
 ### Dance I
 * During a **Partner Dance**, each **Dancer** has an **Orientation** towards the other **Dancer** irrespective of their **Posture** that describes how their body is positioned relative to the other person. The **Dancers** could be **Oriented** so that they were standing face to face to each other, side to side, or back to back, with any number of different **Postures** being taken by each **Dancer** without changing the **Orientation**. 
 * A **Position** during a **Partner Dance** is when a **Leader** and a **Follower** have a specific **Orientation** to each other, a specific **Connection** and **Frame** between the two of them, and each their own specific **Posture**, **Balance**, and **Center of Gravity**.  
-* A **Movement** is anything that changes the **Position** of the **Dancers**, typically initiated by the **Leader** and lead through the **Connection** between the two **Dancers**.
+* TODO how to describe the Viradinha family of positions? 
+* A **Movement** or **Move** is anything that changes the **Position** of the **Dancers**, typically initiated by the **Leader** and lead through the **Connection** between the two **Dancers**.
 
 ### Physics II 
 TODO find a good spot to introduce **Force** earlier as well as the concept of forces adding subtracting together
@@ -95,7 +97,7 @@ https://www.ultimatetango.com/blog/pivots-turns-spins-and-torsion
 ### Dance II 
 
 * A **Pattern** is a sequence of **Movements** that has the **Dancers** progress through a sequence of different **Positions**.
-* A **Step** is a **Pattern** that starts and ends with the same **Position**, so it can be done back to back forever. 
+* A **Step** is a **Pattern** that starts and ends with the same **Position**, so it can be done back to back forever. Typically, it's done over 8 counts of a 4/4 beat.
 * A **Song** is the specific **Music** that is playing at a given moment. 
 * The **Beat** for a **Song** is the pace at which the **Song** moves. Metaphorically, it's the pulse of a heartbeat in the song.
 * Each **Song** has a **Beat** and sometimes more than one as the tempo might change during the song. 

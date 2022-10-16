@@ -15,7 +15,7 @@ This section is about some things that seem about the same across all the dances
 ### Zouk 
 This section is about Zouk, particularly Brazilian Zouk. 
 
-* [Catch-all Zouk notes for now](/zouk/index.md)
+* [Catch-all Zouk notes for now](/zouk)
 
 ### Related 
 If you're into this website, you'll probably be interested in some of the following:
