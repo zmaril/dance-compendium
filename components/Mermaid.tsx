@@ -31,12 +31,20 @@ function _Mermaid({ graphDefinition }) {
 
 
 export function Mermaid({ children }) {
+  if (children.props) {
   let c = children.props.children.filter((txt) => txt != " ").join("\n");
   return (
     <div>
       <_Mermaid graphDefinition={c}/>
     </div>
   );
+  }
+  else {
+    let c = children.flatMap((t) => t.props.children).filter((txt) => txt != " ").join("\n");
+    return (<div>
+      <_Mermaid graphDefinition={c}/>
+    </div>)
+  }
 }
 
 export default Mermaid;

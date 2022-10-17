@@ -4,7 +4,9 @@ title: Language for Talking about Partner Dancing
 
 # Language for Talking About Partner Dancing 
 
-This page contains a small amount of language I've been thinking through for talking and writing about partner dancing. It's a work in progress.
+This page contains a small amount of language I've been thinking through for talking and writing about partner dancing. It's a work in progress and I plan on rearranging the order of things to be clearer.
+
+### Introduction
 
 For a while now, I've tried to write down notes after classes about what I
 learned and I never felt like I had the vocabulary or notation to really fully
@@ -76,7 +78,7 @@ TODO find a good spot to introduce **Force** earlier as well as the concept of f
 * A **Moment** in a **Partner Dance** is a particular point in time when the
   **Dancers** have a certain **Position** as well as each having a certain **Velocity** and **Acceleration**. 
 
-## Frame II 
+### Frame II 
 * When all of **Forces** in the **Frame** add together and don't balance out, **Acceleration** and **Movement** of the dancers is created in that direction. 
 * When the **Forces** of the **Frame** are all in the same direction, then the **Movement** will be a **Linear Acceleration** with resulting **Linear Momentum** propelling the **Dancer** in that direction. 
 * When the **Forces** of the **Frame** oppose one another by being equal in size and pointed into the **Follower**, that creates **Compression** within the **Follower** without any change in **Acceleration**.  
@@ -86,7 +88,7 @@ TODO find a good spot to introduce **Force** earlier as well as the concept of f
 * When the **Forces** of the **Frame** switch between creating **Compression** and **Stretching**, a feeling of **Elasticity** is created. 
 * When the **Forces** of the **Frame** are equal on one part of the **Follower's** body while being **Rotational** on another part of the **Follower's** body, then **Torsion** is created. 
 
-## Rotations I 
+### Rotations I 
 TODO what's the difference between all these
 https://www.ultimatetango.com/blog/pivots-turns-spins-and-torsion
 * Pivot 
