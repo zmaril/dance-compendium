@@ -71,4 +71,8 @@ a {
   .sidenav {
     display: none;
   }
+
+  .toc {
+    display: none;
+  }
 }
