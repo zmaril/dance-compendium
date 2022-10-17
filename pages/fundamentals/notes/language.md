@@ -145,6 +145,7 @@ https://www.ultimatetango.com/blog/pivots-turns-spins-and-torsion
 * Some **Conventions** are in place to create a pleasant atmosphere, such as don't stop and walk away from the dance in the middle of the song if one isn't enjoying dancing with the other person. 
 * Some **Conventions** supersede others, such as it's okay for somebody to walk away from the dance if the other person has offended or hurt them in some way. 
 * Some **Conventions** differ greatly between different dance scenes, such as what constitutes close contact between dancers as well as how many songs a couple should dance together in a row (a couple for Salsa and Bachata and upwards of 5 or 7 for Zouk). 
+* Some **Conventions** are different person to person, such as whether two people of the same sex can dance with one another. I personally think it's fine and good for anybody to lead or follow anybody else, but I am also careful not to assume that others think the same, as it can cause problems to assume that a man would want to dance with me.
 * Generally, one should not assume close contact is allowable or preferred without some indication from the other person they are dancing with. 
 * Breaking a **Convention** may have repercussions during the dance as well as socially. 
 * Some **Conventions** can be broken more easily and freely than others. 
