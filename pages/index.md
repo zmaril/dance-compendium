@@ -12,6 +12,11 @@ This section is about some things that seem about the same across all the dances
 
 * [Language for Talking About Partner Dancing](/fundamentals/notes/language)
 
+### Bachata 
+This section is about Bachata. 
+
+* [A Study of the Shadow Position](/bachata/notes/shadow_study)
+
 ### Zouk 
 This section is about Zouk, particularly Brazilian Zouk. 
 

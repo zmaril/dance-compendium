@@ -70,6 +70,7 @@ export default function MyApp({ Component, pageProps }: AppProps<MyAppProps>) {
         <meta name="description" content={description} />
         <link rel="shortcut icon" href="/favicon.ico" />
         <link rel="icon" href="/favicon.ico" />
+        <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
       </Head>
       <TopNav>
         <Link href="/docs">Docs</Link>

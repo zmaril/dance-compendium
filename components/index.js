@@ -7,3 +7,4 @@ export * from './TopNav';
 export * from './Link';
 export * from './YTEmbed';
 export * from './CT';
+export * from './Mermaid';

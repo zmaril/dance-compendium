@@ -86,7 +86,8 @@ https://zoukbase.com/dance-blogs/zouk-basics-and-why-they-are-so-important/
 
 Foundation stuff that I don’t know how to do yet 
 - Preparação pro giro (Preparation/lunge with turn in place, step pivot for the girls)
-- Elástico com corporal (Elastic with contraction or body roll)Bônus (Boomerang to the left side and to the right side) 
+- Elástico com corporal (Elastic with contraction or body roll)
+- Bônus (Boomerang to the left side and to the right side) 
 - Yo-Yo
 - Ondulação (Body roll)
 - Washing Machine
