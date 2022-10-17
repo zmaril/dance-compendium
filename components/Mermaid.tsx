@@ -4,6 +4,12 @@ import * as mermaid  from 'mermaid';
 let currentId = 0;
 const uuid = () => `mermaid-${(currentId++).toString()}`;
 
+declare global {
+  interface Window {
+    mermaid: any; // 👈️ turn off type checking
+  }
+}
+
 // taken from https://github.com/vercel/next.js/discussions/12837 
 function _Mermaid({ graphDefinition }) {
   const [html, setHtml] = React.useState('');
